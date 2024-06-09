@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React, Django**
 
 - 📫 How to reach me **prince.alain.loui@gmail.com**
-
+- let's talk on Skype
 - ⚡ Fun fact **I drive a car and share my skills and knowledge to my team**
 
 <h3 align="left">Connect with me:</h3>
