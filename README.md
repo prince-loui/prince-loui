@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince-Loui</h1>
-<h3 align="center">A passionate Front-End Developer from Rwanda</h3>
+<h3 align="center">A passionate Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-loui&label=Profile%20views&color=0e75b6&style=flat" alt="prince-loui" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prince.alain.loui@gmail.com**
 - let's talk on Skype
-- ⚡ Fun fact **I drive a car and share my skills and knowledge to my team**
+- ⚡ Fun fact **I drive a car and share with learning new knowledge and skills with my team**
 
 <h3 align="left">Connect with me:</h3>
 prince.alain.loui@gmail.com
